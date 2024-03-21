@@ -12,3 +12,5 @@ The EmployeeSQL folder contains two SQL files (table_schemata.sql and employee_q
 ***Entity Relationship Diagram***
 
 The employeeSQL - ERD.png visually displays the structure of the tables and relationships between logically related tables of the database (This ERD was sketched using QuickDBD).
+
+![ERD_Diagram](https://github.com/jirah2018/SQL-challenge/assets/151040384/6d85e1a5-2046-4067-87ca-6f188a6f8d5b)
